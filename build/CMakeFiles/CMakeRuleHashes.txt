@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+498c52bb5737bb2295013ee6d7886ed7 /home/temidayo/Linux/assignment-autotest/test/assignment1/Test_hello_Runner.c
